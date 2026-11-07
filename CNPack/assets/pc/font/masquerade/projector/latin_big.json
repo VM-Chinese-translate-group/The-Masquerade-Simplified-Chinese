@@ -7,6 +7,12 @@
                 "\u200c": 0
             }
         },
+		{
+            "type": "ttf",
+            "file": "pc:masquerade/fusion-pixel.ttf",
+            "size": 6.5,
+            "oversample": 8
+        },
         {
             "type": "bitmap",
             "file": "pc:font/masquerade/projector/latin_big.png",
