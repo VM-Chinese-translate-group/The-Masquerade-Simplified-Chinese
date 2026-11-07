@@ -1,0 +1,27 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 2,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "pc:font/masquerade/projector/latin_small.png",
+            "ascent": 5,
+            "height": 8,
+            "chars": [
+                "ABCDEFGHIJKLMNOP",
+                "QRSTUVWXYZ\u0000\u0000\u0000\u0000\u0000\u0000",
+                "abcdefghijklmnop",
+                "qrstuvwxyz\u0000\u0000\u0000\u0000\u0000\u0000",
+                "0123456789 \u0000\u0000\u0000\u0000\u0000",
+                ".,_+-=!?()[]:;<>",
+                "/\u0000'\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            ]
+        }
+    ]
+}
