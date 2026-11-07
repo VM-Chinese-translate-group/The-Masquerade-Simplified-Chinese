@@ -1,5 +1,5 @@
 <div align="center"> 
-   <h1>Sun Guardian 2 简体中文翻译</h1>
+   <h1>The Masquerade 简体中文翻译</h1>
 </div>
 
 Planet Minecraft|加载器|地图版本|汉化维护状态

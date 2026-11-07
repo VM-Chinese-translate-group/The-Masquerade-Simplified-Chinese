@@ -2,19 +2,11 @@ labelPRBasedOnFilePath:
   need review:
     - "CNPack/**"
 
-  kubejs:
-    - "CNPack/kubejs/**"
-
   resource:
-    - "CNPack/kubejs/assets/**"
-    - "CNPack/config/fancymenu/**"
-
-  ftbquest:
-    - "CNPack/config/ftbquests/**"
-    - "CNPack/kubejs/assets/ftbquests**"
+    - "CNPack/assets/**"
 
 labelerFlags:
-    labelOnPRUpdates: true  
+    labelOnPRUpdates: true
 
 firstPRWelcomeComment: >
   - 请确定此 Pull Request 的目标分支是否正确
