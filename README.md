@@ -4,17 +4,17 @@
 
 Planet Minecraft|加载器|地图版本|汉化维护状态
 :-|:-|:-|:-
-[链接](https://www.planetminecraft.com/project/sun-guardian-2-stranded/)|原版|1.20.4 1.5|*翻译中*|
+[链接](https://gm4.co/masquerade/)|原版|26.3 1.1.3|*翻译中*|
 
 ---
 
-汉化项目：[Paratranz](https://paratranz.cn/projects/14393)
+汉化项目：[Paratranz](https://paratranz.cn/projects/21317)
 
 汉化发布：[VM汉化组官网](https://vmct-cn.top/doing)
 
-项目主管：WhiterHJ
+项目主管：醉冰茶
 
-译者：[查看贡献者排行榜](https://paratranz.cn/projects/14393/leaderboard)
+译者：[查看贡献者排行榜](https://paratranz.cn/projects/21317/leaderboard)
 
 
 ---
