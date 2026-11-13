@@ -1,0 +1,169 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "ww:gui/icon/confusion.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "z"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:font/chat_symbols.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE307\uE306\uE30D\uE30B\uE315\uE310",
+                "\uE311\uE30E\uE309\uE303\uE300\uE312",
+                "\uE304\uE302\uE301\uE305\uE308\uE314",
+                "\uE317\uE30A\uE30C\uE316\uE313\uE30F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_1.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue326"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_2.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue32c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_3.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue32d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_4.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue32e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_5.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue32f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_6.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue330"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_7.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue331"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_8.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue332"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_9.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue333"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_10.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue327"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_11.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue328"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_12.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue329"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_13.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue32a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_14.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue32b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_15.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue324"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:gui/role_wiki/game_log_16.png",
+            "ascent": 16,
+            "height": 100,
+            "chars": [
+                "\ue322"
+            ]
+        }
+    ]
+}

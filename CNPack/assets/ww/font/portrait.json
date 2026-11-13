@@ -1,0 +1,436 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/mosquito.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue347"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/mosquito.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/mosquito.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue357"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/shark.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue34d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/shark.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/shark.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue35d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/lion.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue345"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/lion.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/lion.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue355"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/owl.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue348"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/owl.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/owl.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue358"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/horse.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue344"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/horse.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/horse.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue354"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/fish.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue341"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/fish.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/fish.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue351"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/mantis.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue346"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/mantis.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/mantis.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue356"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/swan.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue34e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/swan.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/swan.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue35e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/bee.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue340"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/bee.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/bee.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue350"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/wolf.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue34f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/wolf.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u200a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/wolf.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue35f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/pigeon.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue34b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/pigeon.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u200b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/pigeon.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue35b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/parrot.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue349"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/parrot.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u200c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/parrot.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue359"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/fox.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue342"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/fox.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u200d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/fox.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue352"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/frog.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue343"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/frog.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u200e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/frog.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue353"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/rat.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue34c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/rat.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u200f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/rat.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue35c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/pig.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue34a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/pig.png",
+      "ascent": -32768,
+      "height": -96,
+      "chars": [
+        "\u2010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/pig.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": [
+        "\ue35a"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "ww:font/book_buttons.png",
+            "ascent": 18,
+            "height": 18,
+            "chars": [
+                "\ue360\ue36a\ue36b\ue36c\ue36d\ue36e\ue361\ue369"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ww:font/book_buttons_selected.png",
+            "ascent": 20,
+            "height": 22,
+            "chars": [
+                "\ue36f\ue372\ue373\ue374\ue375\ue376\ue370\ue371"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\ue362": 180,
+                "\ue363": 165,
+                "\ue364": 150,
+                "\ue365": 135,
+                "\ue366": 120,
+                "\ue367": 105,
+                "\ue368": 90
+            }
+        }
+    ]
+}

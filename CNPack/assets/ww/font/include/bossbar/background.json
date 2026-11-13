@@ -1,0 +1,30 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue32b": -1,
+        "\ue324": -513,
+        "\ue322": 512
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/background_1.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue326"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/portrait/background_2.png",
+      "ascent": -2000,
+      "height": 48,
+      "chars": [
+        "\ue32c"
+      ]
+    }
+  ]
+}

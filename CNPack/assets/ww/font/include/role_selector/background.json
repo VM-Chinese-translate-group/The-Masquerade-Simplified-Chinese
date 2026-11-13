@@ -1,0 +1,93 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue32b": 149,
+        "\ue324": -2,
+        "\ue322": -221
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_selector/background.png",
+      "ascent": 8,
+      "height": 240,
+      "chars": [
+        "\ue326"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_selector/background_extension.png",
+      "ascent": 8,
+      "height": 65,
+      "chars": [
+        "\ue32c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_selector/background_extension_edge.png",
+      "ascent": 8,
+      "height": 65,
+      "chars": [
+        "\ue32d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_wiki/background.png",
+      "ascent": 0,
+      "height": 240,
+      "chars": [
+        "\ue320"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_wiki/background_extension.png",
+      "ascent": 0,
+      "height": 65,
+      "chars": [
+        "\ue321"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_wiki/background_extension_edge.png",
+      "ascent": 0,
+      "height": 65,
+      "chars": [
+        "\ue323"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_wiki/background_intro.png",
+      "ascent": 0,
+      "height": 240,
+      "chars": [
+        "\ue325"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_wiki/turn_page.png",
+      "ascent": 13,
+      "height": 60,
+      "chars": [
+        "\ue334"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/role_wiki/turn_page_back.png",
+      "ascent": 13,
+      "height": 60,
+      "chars": [
+        "\ue335"
+      ]
+    }
+  ]
+}

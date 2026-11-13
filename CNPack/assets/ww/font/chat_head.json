@@ -1,0 +1,154 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 2
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/mosquito.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue347"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/shark.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue34d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/lion.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue345"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/owl.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue348"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/horse.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue344"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/fish.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue341"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/mantis.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue346"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/swan.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue34e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/bee.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue340"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/wolf.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue34f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/pigeon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue34b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/parrot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue349"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/fox.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue342"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/frog.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue343"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/rat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue34c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:font/chat_heads/pig.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue34a"
+      ]
+    }
+  ]
+}

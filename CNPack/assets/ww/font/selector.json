@@ -1,0 +1,443 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 6,
+        "-": -57
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/mosquito.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue347"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/mosquito.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/mosquito.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue357"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/shark.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue34d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/shark.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/shark.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue35d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/lion.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue345"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/lion.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/lion.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue355"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/owl.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue348"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/owl.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/owl.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue358"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/horse.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue344"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/horse.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/horse.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue354"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/fish.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue341"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/fish.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/fish.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue351"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/mantis.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue346"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/mantis.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/mantis.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue356"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/swan.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue34e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/swan.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/swan.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue35e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/bee.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue340"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/bee.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/bee.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue350"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/wolf.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue34f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/wolf.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u200a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/wolf.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue35f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/pigeon.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue34b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/pigeon.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u200b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/pigeon.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue35b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/parrot.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue349"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/parrot.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u200c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/parrot.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue359"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/fox.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue342"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/fox.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u200d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/fox.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue352"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/frog.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue343"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/frog.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u200e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/frog.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue353"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/rat.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue34c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/rat.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u200f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/rat.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue35c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/normal/pig.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue34a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/evil/pig.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\u2010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ww:gui/selector/dead/pig.png",
+      "ascent": 0,
+      "height": 56,
+      "chars": [
+        "\ue35a"
+      ]
+    }
+  ]
+}
